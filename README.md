@@ -1,2 +1,2 @@
 # CSSParserWinformApplication
-to parse .css file (update properties part is remaning.)
+to parse .css file and update .css file.
